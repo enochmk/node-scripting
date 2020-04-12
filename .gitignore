@@ -1,4 +1,5 @@
-/_data
+_data/*/*.log
+_data/*.log
 logs/**
 /node_modules
 .env
